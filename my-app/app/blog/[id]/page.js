@@ -4,7 +4,6 @@ import Link from 'next/link';
 export default async function BlogDetail({ params }) {
     const { id } = await params;
 
-    // Fetch chi tiết bài viết dựa vào ID
     const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`);
     const post = await res.json();
 
