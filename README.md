@@ -2,7 +2,7 @@
 
 **Họ tên:** Nguyễn Trường Hiếu  
 **MSV:** N23DCCN156  
-**Nhóm:** 2  
+**Nhóm:** 3
 
 ### Mô tả bài làm
 Dự án **Blog Listing Page** được xây dựng bằng **Next.js** và **Tailwind CSS**. Các chức năng chính đã hoàn thiện:
